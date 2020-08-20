@@ -1,5 +1,5 @@
 ## computer-vision-and-OCR
-A repository containing implementations of facial recognition using computer vision and OCR.
+A repository containing an implementation of facial recognition using computer vision and OCR.
 
 This repository contains the code written as part of the final course/project from the Python 3 Programming Specialisation which was presented and curated by the University of Michigan and offered on Coursera. 
 
